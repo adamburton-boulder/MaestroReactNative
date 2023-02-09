@@ -1,0 +1,4 @@
+name: Run Maestro against React Native
+on:
+  push:
+    main
